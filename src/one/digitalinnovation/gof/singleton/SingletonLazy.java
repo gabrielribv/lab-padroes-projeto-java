@@ -1,9 +1,9 @@
 package one.digitalinnovation.gof.singleton;
 
 /**
- * Singleton "preguiçoso".
+ * Singleton "preguiï¿½oso".
  * 
- * @author falvojr
+ * @author gabrielribv
  */
 public class SingletonLazy {
 
